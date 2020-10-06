@@ -1,1 +1,1 @@
-web: voila —-port=$PORT —-no-browser notebooks/test1.ipynb
+web: voila —-port=$PORT —-no-browser test1.ipynb
